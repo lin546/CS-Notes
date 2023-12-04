@@ -1,2 +1,2 @@
-# ReadingNote
-读书笔记
+# CS-Notes
+计算机基础
